@@ -1,2 +1,2 @@
 # README #
-Serving Static Page
+Listing directories

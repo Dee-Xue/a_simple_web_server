@@ -1,0 +1,2 @@
+# README #
+The CGI protocol
